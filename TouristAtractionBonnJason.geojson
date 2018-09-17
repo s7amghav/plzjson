@@ -1,0 +1,20 @@
+{
+"type": "FeatureCollection",
+"name": "TouristAtractionBonnJason",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "Name": "Bonn Boat Trip" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 7.108012592136532, 50.735552839759421 ] ] } },
+{ "type": "Feature", "properties": { "id": 2, "Name": "Beethoven House" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 7.101219065581187, 50.73717081577518 ] ] } },
+{ "type": "Feature", "properties": { "id": 3, "Name": "The Market Square" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 7.102174325158705, 50.735392535086369 ] ] } },
+{ "type": "Feature", "properties": { "id": 4, "Name": "Old Town Hall" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 7.103332467185663, 50.735149783443944 ] ] } },
+{ "type": "Feature", "properties": { "id": 5, "Name": "Star Gate" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 7.098281896278397, 50.735534642683241 ] ] } },
+{ "type": "Feature", "properties": { "id": 6, "Name": "Bonn Minster" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 7.099508850996658, 50.733592642862916 ] ] } },
+{ "type": "Feature", "properties": { "id": 7, "Name": "Poppelsdorf Palace" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 7.091723327816932, 50.725206307830966 ] ] } },
+{ "type": "Feature", "properties": { "id": 9, "Name": "Sudstadt" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 7.100996948905181, 50.726647084571162 ] ] } },
+{ "type": "Feature", "properties": { "id": 9, "Name": "University of Bonn" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 7.102178507156236, 50.733832338602518 ] ] } },
+{ "type": "Feature", "properties": { "id": 10, "Name": "House of  History" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 7.118813553981643, 50.717677170358016 ] ] } },
+{ "type": "Feature", "properties": { "id": 11, "Name": "schloss Drachenburge" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 7.204435688032897, 50.668326281698604 ] ] } },
+{ "type": "Feature", "properties": { "id": 12, "Name": "Schaumburg Palace" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 7.117189187788072, 50.720362717075375 ] ] } },
+{ "type": "Feature", "properties": { "id": 13, "Name": "Rheinaue Park" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 7.144553534424816, 50.711620237736142 ] ] } }
+]
+}
