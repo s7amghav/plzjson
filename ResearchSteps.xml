@@ -1,11 +1,11 @@
-<mxfile modified="2020-01-17T18:43:36.676Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="HNnH0sf5OxXeTcWq2qtX" version="12.5.5" type="github">
+<mxfile modified="2020-01-22T20:09:21.318Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="vXg12CMjXtWq2w-QexS9" version="12.5.6" type="github">
   <diagram id="oGEqrS7d2OxP8BsepCz_" name="Page-1">
-    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1847" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
         <mxCell id="FChSSyh3w6OF7SAAD0dc-1" value="استخراج مدل مفهومی عمومیت فضاهای شهری" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#99FFFF;fontSize=17;" parent="1" vertex="1">
-          <mxGeometry x="280" y="16" width="270" height="86" as="geometry"/>
+          <mxGeometry x="372" y="18" width="270" height="86" as="geometry"/>
         </mxCell>
         <mxCell id="FChSSyh3w6OF7SAAD0dc-2" value="مفاهیم مرتبط با عمومیت فضاهای شهری" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=14;fontStyle=1" parent="FChSSyh3w6OF7SAAD0dc-1" vertex="1">
           <mxGeometry y="26" width="270" height="26" as="geometry"/>
@@ -17,7 +17,7 @@
           <mxGeometry y="60" width="270" height="26" as="geometry"/>
         </mxCell>
         <mxCell id="FChSSyh3w6OF7SAAD0dc-6" value="راهبرد(پیمایش) دلفی" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#99FFFF;fontSize=17;whiteSpace=wrap;spacingBottom=11;spacingTop=7;" parent="1" vertex="1">
-          <mxGeometry x="280" y="177" width="270" height="112" as="geometry"/>
+          <mxGeometry x="372" y="179" width="270" height="112" as="geometry"/>
         </mxCell>
         <mxCell id="FChSSyh3w6OF7SAAD0dc-7" value="(مرحله اول تعیین عوامل(حذف، اضافه و رتبه بندی" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=14;fontStyle=1" parent="FChSSyh3w6OF7SAAD0dc-6" vertex="1">
           <mxGeometry y="26" width="270" height="26" as="geometry"/>
@@ -32,16 +32,16 @@
           <mxGeometry y="86" width="270" height="26" as="geometry"/>
         </mxCell>
         <mxCell id="FChSSyh3w6OF7SAAD0dc-19" value="عوامل سازنده عمومیت فضاهای شهری در ایران" style="text;strokeColor=#000000;fillColor=none;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=14;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="280" y="102" width="270" height="26" as="geometry"/>
+          <mxGeometry x="372" y="104" width="270" height="26" as="geometry"/>
         </mxCell>
         <mxCell id="FChSSyh3w6OF7SAAD0dc-21" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.57;dx=20;direction=south;notch=8;strokeColor=#000000;fillColor=#CCE5FF;fontSize=17;" parent="1" vertex="1">
-          <mxGeometry x="380" y="128" width="60" height="50" as="geometry"/>
+          <mxGeometry x="472" y="130" width="60" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="FChSSyh3w6OF7SAAD0dc-24" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.57;dx=20;direction=south;notch=8;strokeColor=#000000;fillColor=#CCE5FF;fontSize=17;" parent="1" vertex="1">
-          <mxGeometry x="380" y="289" width="60" height="50" as="geometry"/>
+          <mxGeometry x="472" y="291" width="60" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="FChSSyh3w6OF7SAAD0dc-27" value="عوامل اصلی سازنده عمومیت فضاهای شهری ادرایران" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#99FFFF;fontSize=17;whiteSpace=wrap;spacingBottom=11;spacingTop=7;" parent="1" vertex="1">
-          <mxGeometry x="252.5" y="339" width="315" height="86" as="geometry"/>
+          <mxGeometry x="344.5" y="341" width="315" height="86" as="geometry"/>
         </mxCell>
         <mxCell id="FChSSyh3w6OF7SAAD0dc-28" value="زیرعامل های هر عامل اصلی" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=14;fontStyle=1" parent="FChSSyh3w6OF7SAAD0dc-27" vertex="1">
           <mxGeometry y="26" width="315" height="26" as="geometry"/>
@@ -53,15 +53,15 @@
           <mxGeometry y="60" width="315" height="26" as="geometry"/>
         </mxCell>
         <mxCell id="FChSSyh3w6OF7SAAD0dc-32" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.57;dx=20;direction=south;notch=8;strokeColor=#000000;fillColor=#CCE5FF;fontSize=17;" parent="1" vertex="1">
-          <mxGeometry x="380" y="425" width="60" height="50" as="geometry"/>
+          <mxGeometry x="607.5" y="427" width="60" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="FChSSyh3w6OF7SAAD0dc-38" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.57;dx=20;direction=south;notch=8;strokeColor=#000000;fillColor=#CCE5FF;fontSize=17;" parent="1" vertex="1">
-          <mxGeometry x="380" y="526" width="60" height="50" as="geometry"/>
+          <mxGeometry x="667.5" y="528" width="60" height="50" as="geometry"/>
         </mxCell>
-        <mxCell id="FChSSyh3w6OF7SAAD0dc-39" value="نمونه موردی" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#99FFFF;fontSize=17;whiteSpace=wrap;spacingBottom=11;spacingTop=7;" parent="1" vertex="1">
-          <mxGeometry x="252.5" y="576" width="315" height="86" as="geometry"/>
+        <mxCell id="FChSSyh3w6OF7SAAD0dc-39" value="مورد پژوهی" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#99FFFF;fontSize=17;whiteSpace=wrap;spacingBottom=11;spacingTop=7;" parent="1" vertex="1">
+          <mxGeometry x="540" y="578" width="315" height="86" as="geometry"/>
         </mxCell>
-        <mxCell id="FChSSyh3w6OF7SAAD0dc-40" value="سنجش هر یک از عوامل در فضاهای نمونه" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=14;fontStyle=1" parent="FChSSyh3w6OF7SAAD0dc-39" vertex="1">
+        <mxCell id="FChSSyh3w6OF7SAAD0dc-40" value="سنجش هر یک از عامل ها در فضاهای نمونه" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=14;fontStyle=1" parent="FChSSyh3w6OF7SAAD0dc-39" vertex="1">
           <mxGeometry y="26" width="315" height="26" as="geometry"/>
         </mxCell>
         <mxCell id="FChSSyh3w6OF7SAAD0dc-41" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="FChSSyh3w6OF7SAAD0dc-39" vertex="1">
@@ -71,34 +71,65 @@
           <mxGeometry y="60" width="315" height="26" as="geometry"/>
         </mxCell>
         <mxCell id="FChSSyh3w6OF7SAAD0dc-43" value="طراحی مدل سنجش عمومیت فضاهای شهری" style="html=1;strokeColor=#000000;fillColor=#99FFFF;fontSize=17;align=center;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="262.5" y="475" width="295" height="50" as="geometry"/>
+          <mxGeometry x="550" y="477" width="295" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="FChSSyh3w6OF7SAAD0dc-45" value="پیمایش" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#CCFFFF;fontSize=17;whiteSpace=wrap;spacingBottom=11;spacingTop=7;strokeColor=#EA6B66;" parent="1" vertex="1">
-          <mxGeometry x="630" y="507" width="315" height="112" as="geometry"/>
+          <mxGeometry x="883" y="481" width="240" height="78" as="geometry"/>
         </mxCell>
         <mxCell id="FChSSyh3w6OF7SAAD0dc-46" value="پرسشنامه" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=14;fontStyle=1" parent="FChSSyh3w6OF7SAAD0dc-45" vertex="1">
-          <mxGeometry y="26" width="315" height="26" as="geometry"/>
-        </mxCell>
-        <mxCell id="FChSSyh3w6OF7SAAD0dc-47" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="FChSSyh3w6OF7SAAD0dc-45" vertex="1">
-          <mxGeometry y="52" width="315" height="8" as="geometry"/>
-        </mxCell>
-        <mxCell id="FChSSyh3w6OF7SAAD0dc-48" value="مصاحبه" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=14;fontStyle=1" parent="FChSSyh3w6OF7SAAD0dc-45" vertex="1">
-          <mxGeometry y="60" width="315" height="26" as="geometry"/>
+          <mxGeometry y="26" width="240" height="26" as="geometry"/>
         </mxCell>
         <mxCell id="FChSSyh3w6OF7SAAD0dc-51" value="مشاهده" style="text;strokeColor=#000000;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=14;fontStyle=1" parent="FChSSyh3w6OF7SAAD0dc-45" vertex="1">
-          <mxGeometry y="86" width="315" height="26" as="geometry"/>
+          <mxGeometry y="52" width="240" height="26" as="geometry"/>
         </mxCell>
-        <mxCell id="FChSSyh3w6OF7SAAD0dc-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;jettySize=auto;orthogonalLoop=1;strokeWidth=3;fontSize=17;" parent="1" source="FChSSyh3w6OF7SAAD0dc-48" target="FChSSyh3w6OF7SAAD0dc-40" edge="1">
-          <mxGeometry relative="1" as="geometry"/>
+        <mxCell id="FChSSyh3w6OF7SAAD0dc-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.494;exitY=1.093;exitDx=0;exitDy=0;jettySize=auto;orthogonalLoop=1;strokeWidth=3;fontSize=17;exitPerimeter=0;" parent="1" source="FChSSyh3w6OF7SAAD0dc-51" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1066.2058823529414" y="590.8235294117646" as="sourcePoint"/>
+            <mxPoint x="860" y="618" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="1001" y="618"/>
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="DY6ufpENOiba_SE0BS-C-1" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;جستجو وتبیین عوامل&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=15;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="680" y="16" width="120" height="60" as="geometry"/>
+        <mxCell id="DY6ufpENOiba_SE0BS-C-1" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;جستجو وتبیین عوامل&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=15;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="789" y="18" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="DY6ufpENOiba_SE0BS-C-2" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;آزمون و تصحیح عوامل&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=15;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="680" y="177" width="120" height="60" as="geometry"/>
+        <mxCell id="DY6ufpENOiba_SE0BS-C-2" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;آزمون و تصحیح عوامل&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=15;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="789" y="179" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="DY6ufpENOiba_SE0BS-C-3" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;تبیین کاربست عوامل&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=15;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="680" y="339" width="120" height="60" as="geometry"/>
+        <mxCell id="DY6ufpENOiba_SE0BS-C-3" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;تبیین کاربست عوامل&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=15;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="789" y="341" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="SZBvOeRd_noKbNHenCNX-3" value="ناهمسانی ها در عمومیت فضاهای شهری ایران و غرب" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#99FFFF;fontSize=17;whiteSpace=wrap;spacingBottom=11;spacingTop=7;" vertex="1" parent="1">
+          <mxGeometry x="157" y="480" width="315" height="86" as="geometry"/>
+        </mxCell>
+        <mxCell id="SZBvOeRd_noKbNHenCNX-4" value="ناهمسانی ها در مقیاس کلان" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=14;fontStyle=1" vertex="1" parent="SZBvOeRd_noKbNHenCNX-3">
+          <mxGeometry y="26" width="315" height="26" as="geometry"/>
+        </mxCell>
+        <mxCell id="SZBvOeRd_noKbNHenCNX-5" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="SZBvOeRd_noKbNHenCNX-3">
+          <mxGeometry y="52" width="315" height="8" as="geometry"/>
+        </mxCell>
+        <mxCell id="SZBvOeRd_noKbNHenCNX-6" value="ناهمسانی ها در مقیاس عوامل اصلی " style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=14;fontStyle=1" vertex="1" parent="SZBvOeRd_noKbNHenCNX-3">
+          <mxGeometry y="60" width="315" height="26" as="geometry"/>
+        </mxCell>
+        <mxCell id="SZBvOeRd_noKbNHenCNX-17" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.57;dx=20;direction=south;notch=8;strokeColor=#000000;fillColor=#CCE5FF;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="350" y="427" width="60" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="SZBvOeRd_noKbNHenCNX-18" value="مصاحبه" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#CCFFFF;fontSize=17;whiteSpace=wrap;spacingBottom=11;spacingTop=7;strokeColor=#EA6B66;" vertex="1" parent="1">
+          <mxGeometry x="157" y="600" width="315" height="52" as="geometry"/>
+        </mxCell>
+        <mxCell id="SZBvOeRd_noKbNHenCNX-19" value="تحلیل محتوای کیفی" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=14;fontStyle=1" vertex="1" parent="SZBvOeRd_noKbNHenCNX-18">
+          <mxGeometry y="26" width="315" height="26" as="geometry"/>
+        </mxCell>
+        <mxCell id="SZBvOeRd_noKbNHenCNX-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;jettySize=auto;orthogonalLoop=1;strokeWidth=3;fontSize=17;" edge="1" parent="1" target="SZBvOeRd_noKbNHenCNX-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="540" as="sourcePoint"/>
+            <mxPoint x="-70.00333333333299" y="578.0033333333334" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="110" y="540"/>
+              <mxPoint x="110" y="640"/>
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
